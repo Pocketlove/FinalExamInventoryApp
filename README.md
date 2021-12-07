@@ -1,4 +1,4 @@
-# FinalExamInventoryApp
+# Final Exam Inventory App
 
 This is a final exam I wrote in C in less than a day.
 
